@@ -1,4 +1,4 @@
-package com.isoguzay.model;
+package com.isoguzay.androidnativedemo.demo1.model;
 
 import java.io.Serializable;
 

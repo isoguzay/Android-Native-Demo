@@ -1,11 +1,11 @@
-package com.isoguzay.androidnativedemo;
+package com.isoguzay.androidnativedemo.demo1.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.widget.Button;
 import android.widget.TextView;
 
-import com.isoguzay.model.Person;
+import com.isoguzay.androidnativedemo.R;
+import com.isoguzay.androidnativedemo.demo1.model.Person;
 
 public class SecondActivity extends AppCompatActivity {
 
