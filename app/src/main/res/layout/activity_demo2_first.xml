@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".demo2.Demo2FirstActivity">
+    tools:context=".demo2activitytoactivitydata.Demo2FirstActivity">
 
     <EditText
         android:id="@+id/editText_demo2first"

@@ -9,14 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".demo3.Demo3ActivityFourth"></activity>
-        <activity android:name=".demo3.Demo3ActivityThird" />
-        <activity android:name=".demo3.Demo3ActivitySecond" />
-        <activity android:name=".demo2.Demo2SecondActivity" />
-        <activity android:name=".demo2.Demo2FirstActivity" />
-        <activity android:name=".demo1.activities.MainActivity" />
-        <activity android:name=".demo1.activities.SecondActivity" />
-        <activity android:name=".demo3.Demo3ActivityFirst">
+        <activity android:name=".demo3backbutton.Demo3ActivityFourth" />
+        <activity android:name=".demo3backbutton.Demo3ActivityThird" />
+        <activity android:name=".demo3backbutton.Demo3ActivitySecond" />
+        <activity android:name=".demo3backbutton.Demo3ActivityFirst" />
+        <activity android:name=".demo2activitytoactivitydata.Demo2SecondActivity" />
+        <activity android:name=".demo2activitytoactivitydata.Demo2FirstActivity" />
+        <activity android:name=".demo1activitytoactivity.activities.MainActivity" />
+        <activity android:name=".demo1activitytoactivity.activities.SecondActivity" />
+        <activity android:name=".demo4fragment.Demo4ActivityFirst">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

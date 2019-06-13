@@ -1,4 +1,4 @@
-package com.isoguzay.androidnativedemo.demo3;
+package com.isoguzay.androidnativedemo.demo3backbutton;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -31,4 +31,12 @@ public class Demo3ActivitySecond extends AppCompatActivity {
             }
         });
     }
+
+    /*@Override
+    public void onBackPressed() {
+        super.onBackPressed();
+
+        Intent intentTo1 = new Intent(Demo3ActivitySecond.this, Demo3ActivityFirst.class);
+        startActivity(intentTo1);
+    }*/
 }

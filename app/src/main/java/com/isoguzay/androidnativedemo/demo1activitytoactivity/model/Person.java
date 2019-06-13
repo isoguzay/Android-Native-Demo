@@ -1,4 +1,4 @@
-package com.isoguzay.androidnativedemo.demo1.model;
+package com.isoguzay.androidnativedemo.demo1activitytoactivity.model;
 
 import java.io.Serializable;
 

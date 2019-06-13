@@ -1,4 +1,4 @@
-package com.isoguzay.androidnativedemo.demo1.activities;
+package com.isoguzay.androidnativedemo.demo1activitytoactivity.activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.isoguzay.androidnativedemo.R;
-import com.isoguzay.androidnativedemo.demo1.model.Person;
+import com.isoguzay.androidnativedemo.demo1activitytoactivity.model.Person;
 
 public class MainActivity extends AppCompatActivity {
 

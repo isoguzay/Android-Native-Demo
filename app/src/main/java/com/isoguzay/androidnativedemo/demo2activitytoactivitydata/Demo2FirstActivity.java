@@ -1,4 +1,4 @@
-package com.isoguzay.androidnativedemo.demo2;
+package com.isoguzay.androidnativedemo.demo2activitytoactivitydata;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

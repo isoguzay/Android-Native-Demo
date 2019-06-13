@@ -1,4 +1,4 @@
-package com.isoguzay.androidnativedemo.demo3;
+package com.isoguzay.androidnativedemo.demo3backbutton;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -24,6 +24,7 @@ public class Demo3ActivityThird extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intentTo4 = new Intent(Demo3ActivityThird.this, Demo3ActivityFourth.class);
                 startActivity(intentTo4);
+                finish();
             }
         });
     }
